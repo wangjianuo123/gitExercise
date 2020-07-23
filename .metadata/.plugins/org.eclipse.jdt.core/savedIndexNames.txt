@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+F:\work\workSpace\gitExercise\.metadata\.plugins\org.eclipse.jdt.core
-3012028036.index
-3626101267.index
-3113725113.index
