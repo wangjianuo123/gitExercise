@@ -192,3 +192,28 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems we
 2020-07-23 13:54:21,729 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\exercise.two\src\main\resources
 2020-07-23 13:54:21,730 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-23 13:54:21,730 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\exercise.two\src\test\resources
+2020-07-23 14:01:46,437 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-23 14:01:46,471 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.wedcm:exercise:0.0.1-SNAPSHOT @ F:\work\workSpace\gitExercise\exercise\pom.xml.
+2020-07-23 14:01:46,640 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wedcm:exercise.one:0.0.1-SNAPSHOT @ F:\work\workSpace\gitExercise\exercise\one\pom.xml.
+2020-07-23 14:01:46,656 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wedcm:exercise.two:0.0.1-SNAPSHOT @ F:\work\workSpace\gitExercise\exercise\exercise.two\pom.xml.
+2020-07-23 14:01:46,756 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise.one/src/main/java
+2020-07-23 14:01:46,757 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise.one/src/test/java
+2020-07-23 14:01:46,784 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise.two/src/main/java
+2020-07-23 14:01:46,784 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise.two/src/test/java
+2020-07-23 14:01:46,908 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-07-23 14:01:47,079 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 14:01:47,079 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\one\src\main\resources
+2020-07-23 14:01:47,080 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 14:01:47,080 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\one\src\test\resources
+2020-07-23 14:01:47,224 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 14:01:47,224 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\exercise.two\src\main\resources
+2020-07-23 14:01:47,225 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 14:01:47,225 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\exercise.two\src\test\resources
+2020-07-23 14:03:46,957 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wedcm:exercise.one:0.0.1-SNAPSHOT @ F:\work\workSpace\gitExercise\exercise\exercise.one\pom.xml.
+2020-07-23 14:03:47,338 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise.one/src/main/java
+2020-07-23 14:03:47,339 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /exercise.one/src/test/java
+2020-07-23 14:03:47,360 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-07-23 14:03:47,871 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 14:03:47,871 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\exercise.one\src\main\resources
+2020-07-23 14:03:47,871 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 14:03:47,872 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\work\workSpace\gitExercise\exercise\exercise.one\src\test\resources
